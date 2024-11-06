@@ -24,4 +24,19 @@
 📝 Minification
 📝 Bundling
 📝 Compressing
+📝 Code Splitting
+📝 Differential Bundling-support older browsers
+📝 Diagnostic
+📝 Error Handling
+📝 Https
+📝 Tree Shaking- remove unused codes
+📝 Different dev and production bundles
+📝 npx build index.html (for production build)  and remove App.js from package.json
+
+# broweserlist
+☁️ go and check browserlist website and search 🌀 last two version of chrome 🌀 then you know how much pelople using it 
+☁️  also in package.json we can add  "browserslist":[
+  "last 2 versions"
+] 🌀 then you app runs in last vesrion of browser only 🌀
+
 
