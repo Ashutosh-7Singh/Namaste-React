@@ -15,4 +15,13 @@
 - npm i react-dom
 
 ❤️ What Parcel Does For you 
+📝 Dev Build
+📝 Local Server
+📝 HMR-Hot Module Replacement
+📝 File Watching Algorithm - written in c++
+📝 Caching - Faster Builds
+📝 Image Optimization
+📝 Minification
+📝 Bundling
+📝 Compressing
 
